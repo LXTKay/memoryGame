@@ -1,0 +1,5 @@
+.gameboard{
+  background-color: blueviolet;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr)
+}
